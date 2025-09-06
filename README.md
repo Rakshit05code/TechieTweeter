@@ -86,4 +86,4 @@ MIT – Free to use, hack, and share.
 
 ---
 
-Made with ❤️ and ☕ by [YourName](https://github.com/your-username)  
+Made with ❤️ and ☕ by [Rakshit](https://github.com/Rakshit05code)  
