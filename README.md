@@ -1,11 +1,11 @@
-# 🐦 AutoChirp – Daily Tech News Bot 🚀  
+# 🐦 TechieTweeter – Daily Tech News Bot 🚀  
 
 > Bringing you the hottest **Tech News** straight to **Twitter (X)** – every single day! 💻⚡  
 
 ---
 
-## ✨ What is AutoChirp?  
-AutoChirp is a funky little Python bot that:  
+## ✨ What is TechieTweeter?  
+TechieTweeter is a funky little Python bot that:  
 - 📰 Fetches **top tech headlines** from [NewsAPI](https://newsapi.org)  
 - 🐦 Posts them automatically to your **Twitter (X)** account  
 - ⏰ Can be scheduled with Windows Task Scheduler / Cron to run **daily**  
